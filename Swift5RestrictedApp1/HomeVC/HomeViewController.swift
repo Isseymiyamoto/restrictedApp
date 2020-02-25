@@ -22,7 +22,7 @@ class HomeViewController: UIViewController {
     @IBOutlet weak var rankLabel: UILabel!
     
     //称号のための配列準備
-    let rankTitle = ["Masturbation mokey", "Masturbation chimpanzee", "Human Being", "God", "EMinem"]
+    let rankTitle = ["Masturbation mokey", "Masturbation chimpanzee", "Human Being", "God", "EMinem", "ISSEY MIYAMOTO"]
     
     
     var timer = Timer()
